@@ -766,40 +766,22 @@
 .material-grey-text.text-darken-4 {
   color: #212121 !important; }
 
-.material-shades.black {
+.material-black {
   background-color: #000000 !important; }
 
-.material-shades-text.text-black {
+.material-black-text {
   color: #000000 !important; }
 
-.material-shades.white {
+.material-white {
   background-color: #FFFFFF !important; }
 
-.material-shades-text.text-white {
+.material-white-text {
   color: #FFFFFF !important; }
 
-.material-shades.transparent {
+.material-transparent {
   background-color: transparent !important; }
 
-.material-shades-text.text-transparent {
-  color: transparent !important; }
-
-.black {
-  background-color: #000000 !important; }
-
-.black-text {
-  color: #000000 !important; }
-
-.white {
-  background-color: #FFFFFF !important; }
-
-.white-text {
-  color: #FFFFFF !important; }
-
-.transparent {
-  background-color: transparent !important; }
-
-.transparent-text {
+.material-transparent-text {
   color: transparent !important; }
 
 /*# sourceMappingURL=materialize.css.map */
